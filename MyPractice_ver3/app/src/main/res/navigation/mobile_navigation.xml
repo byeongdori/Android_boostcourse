@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/fragment_movielist">
+
+    <fragment
+        android:id="@+id/fragment_movielist"
+        android:name="com.example.mypractice_ver3.Fragment_movielist"
+        android:label="영화 목록" >
+        <action
+            android:id="@+id/action_fragment_movielist_to_fragment_movieinfo"
+            app:destination="@id/fragment_movieinfo" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment_movieinfo"
+        android:name="com.example.mypractice_ver3.Fragment_movieinfo"
+        android:label="영화 상세 정보"
+        tools:layout="@layout/fragment_movieinfo" />
+</navigation>
