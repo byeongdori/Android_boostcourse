@@ -5,7 +5,7 @@
 - 중앙대학교 2021-1 ALCP(자기주도학습 스터디)의 주제로 선정하여 한 학기간 진행
   - 팀 명 : 그땐 컴공이 만만한 줄 알았어요
 - 강의를 들으며 이론 학습, 각자 학습한 내용을 바탕으로 매주 스터디 진행
-- 마지막 2주간 간단한 영화 정보를 조회, 관람평을 작성할 수 있는 프로젝트 진행
+- 마지막 2주간 간단한 영화 박스오피스 순위, 정보 조회 및 관람평을 작성할 수 있는 앱 개발 프로젝트 진행
   - 결과물 링크 : https://www.youtube.com/watch?v=ATh-hyaS6TM&ab_channel=%EA%B9%80%EB%B3%91%EC%A3%BC
   - <a href="https://github.com/byeongdori/Android_boostcourse/tree/main/%EB%AC%B8%EC%84%9C"> Github 문서 링크 </a>
 
